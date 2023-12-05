@@ -1,4 +1,4 @@
 # demo
 my first github repository
 <br>
-Author- Gauri Sharma
+Author- Gauri The Great Sharma
